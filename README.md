@@ -4,7 +4,7 @@ This is a final project for CodeStack Academy, where I worked as the "Product Ma
 
 >The Team:
 >
->Brandon Le (Front-End/Team-Lead)
+>Brandon Le (Front-End/Team-Lead) 
 >
 >Griffin Parker (Back-End)
 >
